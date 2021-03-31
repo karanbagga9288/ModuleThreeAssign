@@ -1,0 +1,53 @@
+{
+  
+  "data":
+  [
+
+  {
+    "id": "1",
+    "name": "A Dog Dryer",
+    "price": 39.95,
+    "description": "The dryer makes the dog dry by drying all the hairs to avoid dripping on the floor.",
+    "features": "It can be used to dry the dog body and remove water. ",
+    "image": "dryer.jpeg"
+  },
+
+  {
+    "id": "2",
+    "name": "Uranium Ore",
+    "price": 40.11,
+    "description": "Uranium ore is very useful and its mining is done using the good technologies.",
+    "features": "It is a radioactive element and it can be dissolved very easily.",
+    "image": "uraniumore.jpeg"
+  },
+
+  {
+    "id": "3",
+    "name": "A Realistic Dog Pillow",
+    "price": 14.99,
+    "description": "This is the kind of pillow to experience the feeling of having a flury dog around us.",
+    "features": "This pillow is soft and very comfortable. It can be used as a fake dog image.",
+    "image": "dogpillow.jpeg"
+  },
+
+  {
+    "id": "4",
+    "name": "30 Pieces of Fake Garlic",
+    "price": 10.99,
+    "description": "This is a decorating material to decorate the stuff or food.",
+    "features": "It looks good and there is no need to buy and use original garlics.",
+    "image": "fakegarlic.jpeg"
+  },
+
+  {
+    "id": "5",
+    "name": "A pizza hat",
+    "price": 12.35,
+    "description": "Pizza hat is like wearing the pizz on the head and its good for people who love pizza.",
+    "features": "It is a hat and people can enjoy wearing it. It is a kind of fun.",
+    "image": "hat.jpeg"
+  }
+
+]
+
+}
